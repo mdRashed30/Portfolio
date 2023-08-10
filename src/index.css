@@ -44,6 +44,10 @@ ul {
   transition: 0.3s;
 }
 
+.small-bar {
+  display: none;
+}
+
 @media screen and (max-width: 1040px) {
   .nav-menu {
     flex-direction: column;
@@ -56,6 +60,10 @@ ul {
     top: 0;
     bottom: 0;
     z-index: -3;
+  }
+
+  .small-bar {
+    display: initial;
   }
 
   /* dosent work, fix will later */
