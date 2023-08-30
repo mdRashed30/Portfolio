@@ -11,7 +11,7 @@ Create an impressive personal portfolio website using the power of React.js. Thi
 2. [Install](#install)
 3. [Languages Used](#languages-used)
 4. [Screenshots](#screenshots)
-5. [Heroku](#heroku)
+5. [Github](#hgithub)
 6. [Links](#links)
 7. [acknowledgements](#acknowledgements)
 8. [credit](#credit)
