@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a07e903.css",
-    "main.js": "/static/js/main.5871cbac.js",
-    "static/media/notetaker.png": "/static/media/notetaker.098f306721679e0ca335.png",
-    "static/media/profileimg.jpeg": "/static/media/profileimg.693ada6646541b76044d.jpeg",
-    "static/media/bookShare.avif": "/static/media/bookShare.8b16c9e6a9ce2921f48d.avif",
-    "static/media/foodRout...avif": "/static/media/foodRout...dcc551b8c9ecf4d7b9d8.avif",
-    "static/media/weather.png": "/static/media/weather.7aacb1a1ce1009fbcaa2.png",
-    "index.html": "/index.html",
-    "main.9a07e903.css.map": "/static/css/main.9a07e903.css.map",
-    "main.5871cbac.js.map": "/static/js/main.5871cbac.js.map"
+    "main.css": "./static/css/main.9a07e903.css",
+    "main.js": "./static/js/main.541bcdc6.js",
+    "static/media/notetaker.png": "./static/media/notetaker.098f306721679e0ca335.png",
+    "static/media/profileimg.jpeg": "./static/media/profileimg.693ada6646541b76044d.jpeg",
+    "static/media/bookShare.avif": "./static/media/bookShare.8b16c9e6a9ce2921f48d.avif",
+    "static/media/foodRout...avif": "./static/media/foodRout...dcc551b8c9ecf4d7b9d8.avif",
+    "static/media/weather.png": "./static/media/weather.7aacb1a1ce1009fbcaa2.png",
+    "index.html": "./index.html",
+    "main.9a07e903.css.map": "./static/css/main.9a07e903.css.map",
+    "main.541bcdc6.js.map": "./static/js/main.541bcdc6.js.map"
   },
   "entrypoints": [
     "static/css/main.9a07e903.css",
-    "static/js/main.5871cbac.js"
+    "static/js/main.541bcdc6.js"
   ]
 }
