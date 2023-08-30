@@ -11,8 +11,7 @@ body {
   background-color: black;
 }
 
-h1,
-h4,
+
 p,
 a {
   color: white;
@@ -23,55 +22,13 @@ ul {
   list-style-type: none;
 }
 
-.btn {
-  padding: 12px 32 px;
-  font-size: 1rem;
-  text-transform: uppercase;
-  background: yellow;
-  color: black;
-  border: 1px solid white;
-  font-weight: 600;
-  cursor: pointer
-}
 
-.btn-light {
-  background: transparent;
-  color: white;
-}
 
-.btn:hover {
-  background: rgb(255, 255, 255, 0.2);
-  transition: 0.3s;
-}
 
-.small-bar {
-  display: none;
-}
 
-@media screen and (max-width: 1040px) {
-  .nav-menu {
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100vh;
-    background-color: rgba(red, green, blue, alpha);
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    z-index: -3;
-  }
-
-  .small-bar {
-    display: initial;
-  }
-
-  /* dosent work, fix will later */
-  .nav-menu li {
-    padding: 1rem;
-  }
-
-  .nav-menu li a {
-    font-size: 30px;
+@media screen and (max-width: 480px) {
+  body {
+    font-size: 16px;
+    background-color: lightgrey;
   }
 }

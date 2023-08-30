@@ -7,11 +7,10 @@
 
 .nav-menu {
     display: flex;
+    column-gap: 1rem;
 }
 
-.nav-menu li {
-    padding: 0 1rem;
-}
+
 
 .nav-menu li a {
     font-size: 1.2rem;

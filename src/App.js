@@ -1,15 +1,19 @@
 import React from "react";
-import { Routes, Route } from "react-router-dom"; // Make sure to import Routes and Route
+import { Routes, Route } from "react-router-dom";
 import "./index.css";
 import Home from "./routes/Home";
-import About from "./routes/About"; // Import the About component
-import Project from "./routes/Project"; // Import the Project component
+import About from "./routes/About"; // 
+import Project from "./routes/Project";
 import Contact from "./routes/Contact";
-import Resume from "./routes/Resume"
+import Resume from "./routes/Resume";
+import Navbar from "./Components/Navbar";
+import Footer from "./Components/Footer"
+
 
 function App() {
   return (
     <>
+      <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
@@ -17,6 +21,10 @@ function App() {
         <Route path="/contact" element={<Contact />} />
         <Route path="/resume" element={<Resume />} />
       </Routes>
+
+
+      <Footer />
+
     </>
   );
 }

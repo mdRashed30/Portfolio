@@ -1,8 +1,9 @@
 import React from 'react'
+import ProjectWheel from '../Components/ProjectWheel'
 
 const Project = () => {
     return (
-        <div>Contact</div>
+        <ProjectWheel />
     )
 }
 
