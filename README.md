@@ -74,17 +74,17 @@ Steps to run Application :
 
 ## Screenshots
 
-![Text-Editor](media/Text-Editor.png)
+![Screenshots](src/assets/screenShots.png)
 
-## Heroku:
+## Deploy Link:
 
-- [Text-Editor](https://text-editor92-dbf877b56f3c.herokuapp.com/)
+- [Portfolio](https://mdrashed30.github.io/Portfolio//)
 
 <hr>
 
 ## Links
 
-- [Github Repo](https://github.com/mdRashed30/Text-Editor)
+- [Github Repo](https://github.com/mdRashed30/Portfolio)
 
 <hr>
 
@@ -100,6 +100,6 @@ Steps to run Application :
 
 Special thanks to my friends who help me -
 
--- Indrojit Ghosh
+-- Peter Sharma
 
 -- Zuberi Ash
